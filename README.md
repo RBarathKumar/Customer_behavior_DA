@@ -1,5 +1,4 @@
 # Customer_behavior_DA
-Here’s a **polished, recruiter-friendly README** tailored to your actual project files and workflow:
 
 ---
 
